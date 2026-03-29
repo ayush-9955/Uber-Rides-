@@ -8,7 +8,7 @@
 
 ## 📊 Overview
 
-**Uber Trip Analysis** is a data-driven project focused on analyzing ride patterns, demand trends, and operational insights from Uber trip data. The goal is to uncover meaningful patterns that can help improve decision-making, optimize ride availability, and enhance user experience.
+**Uber Trip Analysis** is a data-driven project focused on analyzing ride patterns, demand trends, and operational insights from Uber trip data. The goal is to uncover meaningful patterns that can help improve decision-making, optimize ride availability, and enhance user experiences.
 
 ---
 
